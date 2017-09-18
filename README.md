@@ -4,6 +4,8 @@
 [![Software License](https://img.shields.io/badge/license-MPLv2.0-blue.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/dependenci/github-webhooks.svg?style=flat-square)](https://packagist.org/packages/dependenci/github-webhooks)
 
+# DEPRECATED: This package is deprecated. You can use [m1guelpf/laravel-gh-webhooks](https://github.com/m1guelpf/laravel-gh-webhooks) instead.
+
 Easy-to-use class to transform GitHub Webhooks to Laravel Events.
 
 ## Installation
